@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Saumya Pailwan</h1>
+<p align="center">
+  🎓 MS CS @ Northwestern | 🤖 AI, Machine Learning, and Software Development  
+</p>
 
-<!--
-**saumya-pailwan/saumya-pailwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌱 **About Me**  
+- 👨‍💻 Passionate about building intelligent systems that bridge data, algorithms, and real-world applications  
+- 🧠 Working at the intersection of **machine learning research** and **software engineering**
+- 🔬 Exploring advanced topics in **model development**, **signal and image processing**, and **multimodal AI systems**
+- 🌐 Experienced with designing full-stack solutions and scalable AI pipelines  
+- 💻 Tech stack: `Python`, `React`, `Node.js`, `PyTorch`, `TensorFlow`, `AWS`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+📌 **Projects & Research Highlights**
+- 🔍 `Intelligent Data-Driven Systems` – Projects spanning computer vision and generative modeling  
+- 🛠️ `Applied AI Solutions` – Hands-on experience translating models into real-world applications across multiple domains  
+- 🌟 `Cloud-Integrated Applications` – Full-stack web apps and AI services deployed on cloud platforms
+
+---
+
+📫 **Let's Connect!**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
+- 📫 Email: `saumyapailwan@gmail.com`  
+
+---
+
+⚡ **Fun Fact:** I love translating complex concepts into practical tools that make a difference 🌍
